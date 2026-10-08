@@ -15,7 +15,7 @@ name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic homepage"
 url                      : https://sillagandardon.github.io
 baseurl                  : ""
-repository               : "sillagandardon/academicpages.github.io"
+repository               : "sillagandardon/LJT-Homepage"
 
 # Site Author
 author:
